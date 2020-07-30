@@ -8,7 +8,7 @@ I am a final year IT Engineering student from India 🇮🇳. I'm currently lear
 
 [1.1]: https://img.icons8.com/color/48/000000/linkedin.png
 [2.1]: https://img.icons8.com/fluent/48/000000/twitter.png
-[3.1]: https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg
+[3.1]: https://img.icons8.com/windows/32/000000/dev.png
 [4.1]: https://img.icons8.com/fluent/48/000000/instagram-new.png
 
 [1]: https://www.linkedin.com/in/james-shah/
