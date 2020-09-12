@@ -4,8 +4,7 @@ I am a final year IT Engineering student from India 🇮🇳. I'm currently lear
 
 ## 📕 Latest Blog Post
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 If you like my work, share some 💙 on [mail](mailto:hey@bytetales.co). Feel free to reach out in case you want to get in touch.
 
