@@ -5,11 +5,11 @@ I am a final year IT Engineering student from India 🇮🇳. I'm currently lear
 ## 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [How to score 8 bands in IELTS - Facts, Tips and Resources](https://bytetales.co/how-to-score-8-bands-in-ielts-facts-tips-and-resources/)
 - [Pandas DataFrames  - Learning Data Analysis with Python](https://bytetales.co/pandas-data-frames-learning-data-analysis-with-python/)
 - [Learning Data Analysis With Python - Missing Values and Real World Data](https://bytetales.co/learning-data-analysis-with-python-missing-values-and-real-world-data/)
 - [Learning Data Analysis with Python - Introduction to Pandas](https://bytetales.co/learning-data-analysis-with-python-introduction-to-pandas/)
 - [6 Elements Of Machine Learning - A Beginner's Guide to Machine Learning](https://bytetales.co/6-elements-of-machine-learning-a-beginner-s-guide-to-machine-learning/)
-- [Learning Data Structures And Algorithms](https://bytetales.co/learning-data-structures-and-algorithms/)
 <!-- BLOG-POST-LIST:END -->
 
 If you like my work, share some 💙 on [mail](mailto:hey@bytetales.co). Feel free to reach out in case you want to get in touch.
