@@ -5,9 +5,13 @@ Graduate student at Northeastern University pursuing Master of Science in Softwa
 My areas of expertise include:
 
 ► Full-stack web development using NodeJS (Express.js), Flask, Django, React.js, Spring.
+
 ► Database creation and management using various SQL(MySQL, PostgreSQL) and NoSQL(MongoDB, HarperDB) database management systems.
+
 ► Containerization and Deployment using Docker/Kubernetes and cloud providers like AWS, GCP.
+
 ► Mobile app development using React Native.
+
 ► Implementing algorithms using languages I am skilled at (Java, Python, etc.).
 
 
