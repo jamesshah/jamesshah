@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-I am a final year IT Engineering student from India 🇮🇳. I'm currently learning Machine Learning algorithms and developing a Sign Language Recognition webapp using Convolutional Neural Networks(Deep Learning Model). I've worked on some full stack projects including but not limited to Video Call Web App using Twilio API, Covid-19 Case Updates and many more. I also write articles and share my learning process with the community. You can read my blog at [bytetales.co](https://bytetales.co).
+Graduate student at Northeastern University pursuing Master of Science in Software Engineering Systems, with strong technical and analytical skills, flexible in quickly adapting to new technology and tools.
+
+My areas of expertise include:
+
+► Full-stack web development using NodeJS (Express.js), Flask, Django, React.js, Spring.
+► Database creation and management using various SQL(MySQL, PostgreSQL) and NoSQL(MongoDB, HarperDB) database management systems.
+► Containerization and Deployment using Docker/Kubernetes and cloud providers like AWS, GCP.
+► Mobile app development using React Native.
+► Implementing algorithms using languages I am skilled at (Java, Python, etc.).
+
 
 ## 📕 Latest Blog Post
 
