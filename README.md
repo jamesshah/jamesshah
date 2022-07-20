@@ -12,7 +12,7 @@ My areas of expertise include:
 ► Other: Micro Services, REST APIs, Job Management, Data Structures, GitHub
 
 
-If you like my work, share some 💙 on [mail](mailto:hey@bytetales.co). Feel free to reach out in case you want to get in touch.
+If you like my work, share some 💙 on [mail](mailto:jdshah18072000@gmail.com). Feel free to reach out in case you want to get in touch.
 
 [![LinkedIn][1.1]][1]
 [![Twitter][2.1]][2]
