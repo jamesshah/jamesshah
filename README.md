@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-I'm a graduate student at Northeastern University pursuing Master of Science in Software Engineering Systems, with strong technical and analytical skills, flexible in quickly adapting to new technology and tools. Currently I'm working as a Software Engineering Intern @ Autodesk.
+I'm a Software Engineer at ZS Associates
 
 My areas of expertise include:
 
 ► Primary Programming Language: Java, Python, Javascript, Typescript, Go
-► Web Technologies: Spring, Spring Boot, Node.js, ReactJS, Redux, HTML5, CSS3, VueJS
-► Frameworks: Bootstrap, Express, FastAPI, Flask, Spring
+► Web Technologies: Spring, Spring Boot, Angular, Node.js, ReactJS, Redux, HTML5, CSS3, VueJS
 ► Databases: PostgreSQL, MySQL, MongoDB, DynamoDB
 ► Cloud Technologies: Amazon Web Services, Docker, Kubernetes
-► Other: Micro Services, REST APIs, Job Management, Data Structures, GitHub
+► Other: Micro Services, REST APIs, GraphQL, Data Structures
 
 
 If you like my work, share some 💙 on [mail](mailto:jdshah18072000@gmail.com). Feel free to reach out in case you want to get in touch.
